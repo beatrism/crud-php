@@ -1,4 +1,4 @@
-# CRUD em PHP - Projeto de Graduação
+# CRUD em PHP 
 
 Este é um projeto CRUD (Create, Read, Update, Delete) desenvolvido como parte do meu curso de graduação em Ciência da Computação. O sistema foi criado como parte de um projeto acadêmico e tem como objetivo demonstrar as habilidades de desenvolvimento web e programação em PHP adquiridas durante meu curso.
 
